@@ -3,8 +3,8 @@
 	"manifest_version": 2,
 	
 	"name": "Zhuyin",
-	"description": "Add zhuyin fuhao next to Chinese characters.",
-	"version": "3.1",
+	"description": "Add zhuyin fuhao next to Chinese characters, port of Phoebe Tai's Chrome ext.",
+	"version": "1.0",
 
 	"background": {
 		"scripts": ["zhuyin.js"],
